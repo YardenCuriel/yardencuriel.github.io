@@ -1,6 +1,6 @@
 ---
 title: "From Contributor to Google Employee: RCE with 14,000+ GCP Projects"
-date: 2026-10-13 08:00:00 +0300
+date: 2026-03-19 09:00:00 +0200
 categories: [Security Research, CI/CD Security]
 tags: [vulnerability, google, google-vrp, rce, self-hosted-runners, gcp, github-actions, ci-cd-security, privilege-escalation, credential-theft, gke, google-kubernetes-engine,  approval-gate-bypass]
 pin: true
