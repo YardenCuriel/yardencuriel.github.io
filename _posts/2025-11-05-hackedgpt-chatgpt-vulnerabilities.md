@@ -4,6 +4,8 @@ date: 2025-11-05 09:00:00 +0200
 categories: [Security Research, AI Security]
 tags: [security-research, ai, ml, llm, chatgpt, openai, prompt-injection, search-injection, memory-poisoning, data-exfiltration, safety-bypass, searchgpt, domain-interception, tenable, published-research, vulnerability]
 pin: true
+image:
+  path: /assets/img/hackedgpt-pixel.gif
 ---
 
 ## My Journey into AI Security
